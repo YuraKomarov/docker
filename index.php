@@ -1,6 +1,6 @@
 <?php 
 
-echo 'before lib<br>';
+echo 'before lib :)<br>';
 
 include 'lib.php';
 
